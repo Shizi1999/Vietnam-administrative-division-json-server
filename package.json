@@ -5,8 +5,11 @@
   "keywords": [
     "json-server, Vietnam, REST API, Vietnamese administrative division, api tỉnh thành phố, api đơn vị hành chính"
   ],
-  "author": "qtv10291",
+  "author": "shizi",
   "license": "ISC",
+  "scripts": {
+    "start": "node api/server.js"
+  },
   "dependencies": {
     "json-server": "^0.17.3"
   }
